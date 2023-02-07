@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1e5e594cbb1f5e841ab8a6619c4768fe, type: 3}
+    - {fileID: 2800000, guid: ded3100ecfb3bae4192f81900fc2caff, type: 3}
+    - {fileID: 2800000, guid: 3283d449d71d3ca4e97aa4570b24f960, type: 3}
+    - {fileID: 2800000, guid: 5af98f7c55f9b2e4f8cf673b0640fbaf, type: 3}
+    - {fileID: 2800000, guid: 85df6c0ad6762a045b16775a12d45361, type: 3}
+    - {fileID: 2800000, guid: a96c1d88c806db04bbf4923df6f94cc1, type: 3}
+    - {fileID: 2800000, guid: e233b2189f7d4194e9e6f92907d033d9, type: 3}
+    - {fileID: 2800000, guid: cc82bd7b6d982754083ce83a6fcb3a17, type: 3}
+    - {fileID: 2800000, guid: 442ee752f0be8234690daa2e2c5ba014, type: 3}
+    - {fileID: 2800000, guid: 795d18bb63ea8f147940a900ef13aba5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 442ee752f0be8234690daa2e2c5ba014, type: 3}
+  - {fileID: 21300000, guid: e233b2189f7d4194e9e6f92907d033d9, type: 3}
+  - {fileID: 21300000, guid: a96c1d88c806db04bbf4923df6f94cc1, type: 3}
+  - {fileID: 21300000, guid: 3283d449d71d3ca4e97aa4570b24f960, type: 3}
+  - {fileID: 21300000, guid: 85df6c0ad6762a045b16775a12d45361, type: 3}
+  - {fileID: 21300000, guid: cc82bd7b6d982754083ce83a6fcb3a17, type: 3}
+  - {fileID: 21300000, guid: 795d18bb63ea8f147940a900ef13aba5, type: 3}
+  - {fileID: 21300000, guid: 1e5e594cbb1f5e841ab8a6619c4768fe, type: 3}
+  - {fileID: 21300000, guid: 5af98f7c55f9b2e4f8cf673b0640fbaf, type: 3}
+  - {fileID: 21300000, guid: ded3100ecfb3bae4192f81900fc2caff, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bg_01
+  - Ship4
+  - dollar
+  - Ice
+  - cursor_right
+  - pause
+  - clipart1436795
+  - Terran
+  - Lava
+  - Baren
+  m_RenderDataMap: {}
+  m_Tag: Sprites
+  m_IsVariant: 0
